@@ -2,7 +2,7 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "SDK7 Scene Template",
+    "title": "SDK7 Code-Ready Scene Template",
     "description": "template scene with SDK7",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
@@ -22,7 +22,7 @@
   },
   "spawnPoints": [
     {
-      "name": "spawn1",
+      "name": "Spawn Point 1",
       "default": true,
       "position": {
         "x": [
@@ -48,5 +48,10 @@
   "featureToggles": {
     "voiceChat": "enabled",
     "portableExperiences": "enabled"
+  },
+  "rating": "T",
+  "source": {
+    "origin": "creator-hub",
+    "projectId": "6b8d5e81-c9dc-4b84-b810-a6f93de180c6"
   }
 }
