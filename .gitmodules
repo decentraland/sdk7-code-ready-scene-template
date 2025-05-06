@@ -1,0 +1,3 @@
+[submodule ".cursor"]
+	path = .cursor
+	url = https://github.com/decentraland/Decentraland-SDK7-Cursor-Rules.git
